@@ -1,0 +1,28 @@
+h1 {
+    color: brown;
+}
+
+body {
+   background-color: #BCF8EC;
+   color: blueviolet;
+   font-size: 20px;
+   font-family: 'IBM Plex Mono', monospace;
+   font-family: 'Montserrat', sans-serif;
+}
+
+.title {
+    color: #7B435B;
+}
+
+.avatar { 
+    border-radius: 50px; 
+}
+
+.card {
+    background-color:#C3E8BD;
+    border-radius: 10px;
+    padding: 10px 20px 10px 20px;
+    border: #7B435B 10px solid;
+    
+}
+
